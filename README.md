@@ -9,5 +9,3 @@
 4/ All files will be uploaded and downloaded as a tar.gz file.
 
 5/ There are two different MySQL table that was used for this project. The first one will store all the servers that was accessed, when they was first access and latest access. The second table will be user specific, this will store the files that a specific user has uploaded to the server. This table will also store when the file was first upload and when it was last modify.
-
-6/ The Backup Server folder includes the bash script file and a video that demonstrates how the file will be executed.
